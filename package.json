@@ -1,0 +1,23 @@
+{
+  "name": "labrat.c",
+  "version": "0.1.0",
+  "description": "Simple, single-file test harness for C/C++; Alex Thayer (2016).",
+  "keywords": [
+    "c",
+    "library",
+    "test",
+    "testing",
+    "framework",
+    "harness"
+  ],
+  "homepage": "https://github.com/nodef/labrat.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/labrat.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/labrat.c.git"
+  },
+  "license": "CC0-1.0",
+  "main": "labrat.h"
+}
